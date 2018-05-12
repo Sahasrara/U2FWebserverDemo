@@ -1,5 +1,5 @@
 
-##U2F n-Person Login Webserver Demo
+## U2F n-Person Login Webserver Demo
 
 ### To Run
 I've already packaged the jar as takehome.jar so just run:
